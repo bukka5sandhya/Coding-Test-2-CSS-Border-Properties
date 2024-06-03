@@ -1,0 +1,26 @@
+.button{
+    
+    width:200px;
+    margin:20px;
+}
+.border-shorthand{
+    border-color:#184b73;
+    border-style: solid;
+    border-width:5px;
+}
+.border-top-none{
+    border-top: none;
+    background-color: #ffffff;
+}
+.border-bottom-none{
+    border-bottom: none;
+    background-color: #ffffff;
+}
+.border-left-none{
+    border-left: none;
+    background-color: #ffffff;
+}
+.border-right-none{
+    border-right: none;
+    background-color: #ffffff;
+}
